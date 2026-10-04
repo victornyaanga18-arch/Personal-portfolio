@@ -13,7 +13,6 @@ ody {
     min-height: 100vh;
 }
 
-/* ===== HEADER / HERO SECTION ===== */
 header {
     text-align: center;
     padding: 80px 20px 60px;
@@ -62,7 +61,6 @@ header img:hover {
     transform: scale(1.07);
 }
 
-/* ===== NAVIGATION BAR ===== */
 nav {
     display: flex;
     justify-content: center;
@@ -94,14 +92,12 @@ nav a:hover {
     transform: translateY(-2px);
 }
 
-/* ===== MAIN CONTENT ===== */
 main {
     max-width: 1100px;
     margin: 50px auto;
     padding: 0 25px;
 }
 
-/* ===== CONTENT CARDS ===== */
 section {
     background: rgba(15, 23, 42, 0.85);
     padding: 35px;
@@ -130,8 +126,6 @@ section h2 {
 section p {
     color: #e2e8f0;
 }
-
-/* ===== LISTS ===== */
 ul,
 ol {
     padding-left: 25px;
@@ -147,7 +141,6 @@ li::marker {
     color: #818cf8;
 }
 
-/* ===== LINKS ===== */
 section a {
     color: #93c5fd;
     text-decoration: none;
@@ -160,7 +153,6 @@ section a:hover {
     text-decoration: underline;
 }
 
-/* ===== CONTACT SECTION ===== */
 #Contact {
     background: linear-gradient(
         135deg,
@@ -169,7 +161,6 @@ section a:hover {
     );
 }
 
-/* ===== FOOTER ===== */
 footer {
     text-align: center;
     padding: 25px 15px;
